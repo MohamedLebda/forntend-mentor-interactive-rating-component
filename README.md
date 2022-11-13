@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/interactive-rating-ni0XpJOZCo)
+- Live Site URL: [live site URL](https://mohamedlebda.github.io/forntend-mentor-interactive-rating-component/?fbclid=IwAR0g68HFckZCvFsoncM8rGohbdPoODeB1xliOlqGFCCnAFTn3KNPUZhBRL0)
 
 ## My process
 
